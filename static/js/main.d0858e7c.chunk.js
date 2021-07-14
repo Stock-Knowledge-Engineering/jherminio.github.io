@@ -1,0 +1,2 @@
+(this["webpackJsonpstock-knowledge-engineering-page.github.io"]=this["webpackJsonpstock-knowledge-engineering-page.github.io"]||[]).push([[0],[function(e,n){}],[[0,1]]]);
+//# sourceMappingURL=main.d0858e7c.chunk.js.map
